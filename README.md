@@ -3,4 +3,4 @@ This is a practice repository
 
 **HELLO! I AM CHANGING THIS FOR GITHUB**
 
-Hello, I love cats that are very fluffy ideally
+Hello, I love dogs that are very fluffy ideally
